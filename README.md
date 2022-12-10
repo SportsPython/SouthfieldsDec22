@@ -1,4 +1,5 @@
-# FIFA Football Intelligence-themed Python workshop for Southfields Academy on 9/12/22 - novice audience (classes of 20x students in Year 10/aged 14-15)
+# FIFA Football Intelligence-themed Python workshop for Southfields Academy on 9/12/22
+Delivered to Novice, Secondary Education audience (classes of 20x students in Year 10/aged 14-15)
     
 **Click on the link below to access the custom jupyterlite as the computational environment alongside the workshop code notebooks and data, or copy https://sportspython.github.io/SouthfieldsDec22/ into an appropriate browser:**
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://sportspython.github.io/SouthfieldsDec22/)
