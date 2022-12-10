@@ -31,7 +31,7 @@ Use the normal window, i.e. `New Window` not a `New Private Window` or other ano
 
 
 ## Sporting Context
-* FIFA's new Football Intelligence available from their [Training Centre website] (https://www.fifatrainingcentre.com/en/).
+* FIFA's new Football Intelligence available from their [Training Centre website](https://www.fifatrainingcentre.com/en/).
 * The data and generated Football Intellignce is based on the 21/22 English Premier League match between Arsenal and Man U on 23/4/22, at the time seen as a battle for 4th/the final Champion's League spot. The BBC's match report can be found [here](https://www.bbc.co.uk/sport/football/61125048).    
 
 
